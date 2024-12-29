@@ -4,4 +4,8 @@ title: Travels
 
 # Travels
 
-You don't need React to write simple standalone pages.
+:::note
+This page is a WIP.
+:::
+
+A collection of places I've been and the learnings along the way.
