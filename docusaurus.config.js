@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'My Site',
   tagline: 'Dinosaurs are cool',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/pfp.png',
 
   // Set the production url of your site here
   url: 'https://your-docusaurus-site.example.com',
@@ -59,12 +59,15 @@ const config = {
           onInlineAuthors: 'warn',
           onUntruncatedBlogPosts: 'warn',
         },
+        
         theme: {
           customCss: './src/css/custom.css',
         },
       }),
     ],
   ],
+
+
 
 
   themeConfig:
@@ -81,17 +84,22 @@ const config = {
         items: [
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'aboutSidebar',
             position: 'left',
             label: 'About Me',
           },
+          // {
+          //   type: 'docSidebar',
+          //   sidebarId: 'tutorialSidebar',
+          //   position: 'left',
+          //   label: 'Projects',
+          // },
           {
             type: 'docSidebar',
-            sidebarId: 'tutorialSidebar',
+            sidebarId: 'talksSidebar',
             position: 'left',
-            label: 'Projects',
+            label: 'Talks',
           },
-          {to: '/talks', label: 'Talks', position: 'left'},
           {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'dropdown',
