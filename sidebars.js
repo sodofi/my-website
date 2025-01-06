@@ -24,7 +24,7 @@ const sidebars = {
         'about/bio',
         'about/life-philosophy',
         'about/readings',
-        'about/resume'
+        // 'about/resume'
       ],
     },
   ],
@@ -53,17 +53,7 @@ const sidebars = {
         'talks/conferences/PL-Summit',
       ],
     },
-
-    {
-      type: 'category',
-      label: 'Talks',
-      collapsed: false,
-      items: [
-        'talks/conferences',
-        'talks/podcasts',
-        'talks/workshops',
-      ],
-    },
+    'talks/podcasts',
   ],
 
   // By default, Docusaurus generates a sidebar from the docs folder structure
