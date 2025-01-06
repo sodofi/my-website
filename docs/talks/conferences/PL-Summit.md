@@ -6,4 +6,6 @@ import YouTube from 'react-youtube';
 
 # PL Summit 2023
 
-Introduction to Hypercerts
+What are Hypercerts?
+
+<YouTube videoId="sHvdBRj3kxE" />

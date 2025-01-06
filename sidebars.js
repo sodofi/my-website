@@ -44,6 +44,7 @@ const sidebars = {
 
   // Talks sidebar
   talksSidebar: [
+    'talks/podcasts',
     {
       type: 'category',
       label: 'Conferences',
@@ -53,7 +54,6 @@ const sidebars = {
         'talks/conferences/PL-Summit',
       ],
     },
-    'talks/podcasts',
   ],
 
   // By default, Docusaurus generates a sidebar from the docs folder structure
