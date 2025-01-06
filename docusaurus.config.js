@@ -106,7 +106,7 @@ const config = {
             position: 'left',
             label: 'Talks',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          // {to: '/blog', label: 'Blog', position: 'left'},
           {
             type: 'dropdown',
             position: 'left',

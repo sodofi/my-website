@@ -23,8 +23,8 @@ const sidebars = {
       items: [
         'about/bio',
         'about/life-philosophy',
-        'about/resume',
-        'about/travels',
+        'about/readings',
+        'about/resume'
       ],
     },
   ],
@@ -37,6 +37,7 @@ const sidebars = {
       collapsed: false,
       items: [
         'content/sketchnotes',
+        'content/blogs',
       ],
     },
   ],
@@ -52,7 +53,7 @@ const sidebars = {
         'talks/conferences/PL-Summit',
       ],
     },
-    
+
     {
       type: 'category',
       label: 'Talks',

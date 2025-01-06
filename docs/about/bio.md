@@ -5,7 +5,7 @@ title: Bio
 # My Everything Bio
 
 
-Hi, I'm Sophia. I'd give a quick succinct bio emcompassing all that I am, but the truth is, that's nearly impossible to do. Humans are these constantly evolving creatures and static one liners keep us defined by the narratives we tell ourselves. 
+Hi, I'm Sophia. 
 
 Over the years, I've tried several mediums to capture 'who I am.' From a design portfolio, to a blog, to open source project repositories, etc. etc. but in each of them, I was writing for a different audience and hiding an aspect of myself. So that's why I'm creating an everything site -- one that encapsulates my goals, my history, projects, writings, learnings, and just everything about me that I want to share with the world.
 
