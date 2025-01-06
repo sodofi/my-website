@@ -88,6 +88,12 @@ const config = {
             position: 'left',
             label: 'About Me',
           },
+          {
+            type: 'docSidebar',
+            sidebarId: 'contentSidebar',
+            position: 'left',
+            label: 'Content',
+          },
           // {
           //   type: 'docSidebar',
           //   sidebarId: 'tutorialSidebar',

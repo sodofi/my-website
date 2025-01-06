@@ -29,11 +29,33 @@ const sidebars = {
     },
   ],
 
+  // Content sidebar
+  contentSidebar: [
+    {
+      type: 'category',
+      label: 'Content',
+      collapsed: false,
+      items: [
+        'content/sketchnotes',
+      ],
+    },
+  ],
+
   // Talks sidebar
   talksSidebar: [
     {
       type: 'category',
-      label: 'Speaking',
+      label: 'Conferences',
+      collapsed: false,
+      items: [
+        'talks/conferences/consensus',
+        'talks/conferences/PL-Summit',
+      ],
+    },
+    
+    {
+      type: 'category',
+      label: 'Talks',
       collapsed: false,
       items: [
         'talks/conferences',

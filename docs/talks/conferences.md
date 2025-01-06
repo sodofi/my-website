@@ -1,5 +1,5 @@
 ---
-title: Bio
+title: Conferences
 ---
 
 # Bio
