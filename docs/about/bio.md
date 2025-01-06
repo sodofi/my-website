@@ -4,6 +4,10 @@ title: Bio
 
 # My Everything Bio
 
+:::tip
+Welcome! This site is still a work in progress as I'm currently editing. Thanks for being one of the first to visit.
+:::
+
 
 Hi, I'm Sophia. 
 
